@@ -1,2 +1,4 @@
 # WebDevBootcamp
-Udemy Colt Steele
+This is a place to record the homework from Udemy Colt Steele.
+
+
